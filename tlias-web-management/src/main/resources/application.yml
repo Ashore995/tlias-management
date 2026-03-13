@@ -4,8 +4,8 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/tlias
     driver-class-name: com.mysql.cj.jdbc.Driver
-    username: root
-    password: lirui4689321
+    username: 
+    password: 
   servlet:
     multipart:
       max-file-size: 10MB
